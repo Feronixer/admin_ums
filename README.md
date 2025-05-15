@@ -5,6 +5,8 @@ database name: db_admin
 next import niyo yung sql na naandito dun sa ginawa mong database.
 
 
+
+
 Sa pag log-in eto yung pre-generated account per role.
 
 ADMIN ROLE
